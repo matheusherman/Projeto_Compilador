@@ -1,5 +1,11 @@
 # Fase 1 - Definição da Linguagem e Análise Léxica
 
+# Alunos
+**`ERICK LEMMY DOS SANTOS OLIVEIRA`**
+**`GABRIELLE BATISTA GARCIA`**
+**`LEANDRO RICARDO GUIMARÃES`**
+**`MATHEUS HERMAN BERNARDIM ANDRADE`**
+
 ## Descrição da Fase
 
 A Fase 1 deste projeto tem como objetivo principal a criação de uma linguagem de programação que permita a criação de programas destinados a sistemas embarcados, como Arduino Mega, Raspberry PI, ou Tiva, baseados na tecnologia ARM e a criação do analisador lexico. A linguagem será desenvolvida a partir de um esboço inicial, com ênfase na interação com hardware, tipos de dados estáticos, manipulação de números inteiros e de ponto flutuante, além da implementação de operações matemáticas em conformidade com o padrão IEEE-754 de 16 bits, também conhecido como meia precisão.
