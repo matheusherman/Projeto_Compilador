@@ -1,14 +1,14 @@
 # Projeto Compilador
 
+Este é o repositório do projeto disciplinar de compilador para a disciplina de Compiladores, realizado no segundo semestre de 2023. O projeto envolve a criação de um compilador para uma linguagem de programação destinada a sistemas embarcados baseados na tecnologia ARM, como Arduino Mega, Raspberry Pi e Tiva.
+
+O projeto será desenvolvido em 3 etapas, desde a definição da linguagem até a geração de código Assembly para a plataforma escolhida.
+
 # Alunos
 **`ERICK LEMMY DOS SANTOS OLIVEIRA`**<br>
 **`GABRIELLE BATISTA GARCIA`**<br>
 **`LEANDRO RICARDO GUIMARÃES`**<br>
 **`MATHEUS HERMAN BERNARDIM ANDRADE`**<br>
-
-Este é o repositório do projeto disciplinar de compilador para a disciplina de Compiladores, realizado no segundo semestre de 2023. O projeto envolve a criação de um compilador para uma linguagem de programação destinada a sistemas embarcados baseados na tecnologia ARM, como Arduino Mega, Raspberry Pi e Tiva.
-
-O projeto será desenvolvido em 3 etapas, desde a definição da linguagem até a geração de código Assembly para a plataforma escolhida.
 
 # Objetivo
 
