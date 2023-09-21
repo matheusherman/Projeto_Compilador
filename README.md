@@ -4,11 +4,12 @@ Este é o repositório do projeto disciplinar de compilador para a disciplina de
 
 O projeto será desenvolvido em 3 etapas, desde a definição da linguagem até a geração de código Assembly para a plataforma escolhida.
 
-# Alunos
-**`ERICK LEMMY DOS SANTOS OLIVEIRA`**<br>
-**`GABRIELLE BATISTA GARCIA`**<br>
-**`LEANDRO RICARDO GUIMARÃES`**<br>
-**`MATHEUS HERMAN BERNARDIM ANDRADE`**<br>
+## Equipe
+
+- [Erick Lemmy dos Santos Oliveira](https://github.com/eriklemy/Compilador)
+- Gabrielle Batista Garcia
+- Leandro Ricardo Guimarães 
+- [Matheus Herman](https://github.com/matheusherman/Projeto_Compilador#readme)
 
 # Objetivo
 
