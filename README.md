@@ -206,7 +206,7 @@ Aqui estão alguns exemplos de código que demonstram as funcionalidades da ling
 
 #### 1. Exemplo Basico*.Cpy:
 ```python
-// Este eh um comentario
+// Este e um comentario
 
 // Declara uma variável inteira
 numero: int = 10;
