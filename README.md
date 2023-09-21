@@ -9,7 +9,7 @@ O projeto será desenvolvido em 3 etapas, desde a definição da linguagem até 
 - [Erick Lemmy dos Santos Oliveira](https://github.com/eriklemy/Compilador)
 - Gabrielle Batista Garcia
 - Leandro Ricardo Guimarães 
-- [Matheus Herman](https://github.com/matheusherman/Projeto_Compilador#readme)
+- [Matheus Herman Bernardim Andrade](https://github.com/matheusherman/Projeto_Compilador#readme)
 
 # Objetivo
 
