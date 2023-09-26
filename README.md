@@ -7,7 +7,7 @@
 **`MATHEUS HERMAN BERNARDIM ANDRADE`**<br>
 
 # Link para rodar o analisador léxico
-https://replit.com/@matheusherman/Compiladores
+https://replit.com/@matheusherman/Compiladores <br>
 **`PARA RODAR É NECESSÁRIO DIGITAR O COMANDO ABAIXO`**<br>
 **`python3 main.py testeX.cpy`**<br>
 **`OS ARQUIVOS DISPONÍVEIS SÃO TESTE.CPY, TESTE1.CPY E TESTE2.CPY`**<br>
