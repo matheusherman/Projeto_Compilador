@@ -30,7 +30,7 @@ ser implementada de forma a complementar o código gerado pelo Antlr.
 aaa
 ```
 
-### Analisador Sintático
+## Analisador Sintático
 
 ```              
 aaa
