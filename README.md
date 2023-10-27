@@ -4,6 +4,8 @@ Este é o repositório do projeto disciplinar de compilador para a disciplina de
 
 O projeto será desenvolvido em 3 etapas, desde a definição da linguagem até a geração de código Assembly para a plataforma escolhida.
 
+[LINK DO REPL.IT PARA RODAR OS CÓDIGOS](https://replit.com/@matheusherman/Compiladores)
+
 ## Equipe
 
 - [Erick Lemmy dos Santos Oliveira](https://github.com/eriklemy/Compilador)
@@ -22,7 +24,7 @@ O projeto está dividido em três fases, cada uma com entregas específicas:
 
 Nesta fase, o objetivo é criar uma linguagem de programação que permita a interação com hardware, como leitura e escrita em pinos do microcomputador, portas seriais e componentes opcionais, como conversores digital-analógico e analógico-digital. A linguagem deve ser definida a partir de um esboço inicial e seguir as normas da ABNT para documentação. Além disso, será necessário criar um analisador léxico capaz de validar os lexemas da linguagem.
 
-# Fase 2 - Verificação de Código - Análise Sintática e Semântica
+# [Fase 2 - Verificação de Código - Análise Sintática e Semântica](https://github.com/matheusherman/Projeto_Compilador/tree/Fase-2)
 
 Na segunda fase, os alunos devem implementar um analisador sintático, utilizando técnicas como LL1 ou LR1, e uma estrutura baseada em cálculo de sequentes para a verificação dos tipos de identificadores, valores e expressões da linguagem. Também é possível utilizar o Antlr para gerar o analisador sintático, mas a análise semântica deve ser implementada manualmente.
 
